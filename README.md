@@ -19,4 +19,13 @@ Basic concepts and examples related to numerical error behavior.
 
 ---
 
+### **02_Root_Finding_Methods**
+This chapter introduces numerical algorithms used to find roots of nonlinear and linear equations.
+
+#### Files:
+- **01_Bisection_Method**  
+  Implementation of the **Bisection Method**, a robust bracketing algorithm for finding roots of continuous functions.
+
+---
+
 More folders will be added and documented as the project grows.
